@@ -30,3 +30,11 @@ a {
     background-color: #000000;
     color: #FFFFFF;
 }
+
+.w50{
+    width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    .w50{width: 100%;}
+}
