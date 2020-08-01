@@ -8,11 +8,25 @@ body {
 }
 
 .quem-somos {
-    background-color: #4DBCE9;
+    background-color: #1190C8;
     color: #FFFFFF;
 }
 
 .margin {
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+a {
+    font-weight: bold;
+}
+
+.rodape {
+    background-color: #000000;
+    color: #FFFFFF;
 }
